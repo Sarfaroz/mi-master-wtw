@@ -17,8 +17,8 @@ titel: Projekt 2 // Sommersemester 2020 // Cranach Timeline
 - [Planungsprotokolle](https://github.com/BenPag/cranach/blob/projekt-2/docs/planning.md)
 - [Reviewprotokolle](https://github.com/BenPag/cranach/blob/projekt-2/docs/review.md)
 
-## Team 3 (Name?)
-- Teilnehmer:
+## Team 3 (DKs)
+- Teilnehmer: Dmitrii Kuznetcov ,Sarfaroz Khakimov , Naze Derwisch
 - Repo Projekt 1:
 - [Repo Projekt 2](https://github.com/d-kuznetsov/cranach-timeline)
 - Planungsprotokolle:
